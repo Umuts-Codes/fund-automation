@@ -82,3 +82,8 @@ The system handles everything else fully automatically.
 
 **NOTE:** This project operates in the background through a combination of jQuery-Ajax on the frontend and Python Flask backend functions, ensuring that all data is processed and transferred correctly.
 
+
+<br>
+
+
+![Fund Automation Screenshot](screenshots/main-description.png)
