@@ -33,7 +33,6 @@ Extracts the most recent date from the dataset.
 
 <p>- PDF Export -</p>
 
-<br>
 
 Allows users to download a professionally formatted PDF report containing all calculated results.
 
@@ -78,7 +77,7 @@ The only thing the user needs to do is enter their Date, Income, and Expense dat
 The system handles everything else fully automatically.
 
 
-<br>
+<br><br>
 
 
 **NOTE:** This project operates in the background through a combination of jQuery-Ajax on the frontend and Python Flask backend functions, ensuring that all data is processed and transferred correctly.
