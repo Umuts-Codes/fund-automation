@@ -62,7 +62,7 @@ the system automatically detects these issues.
 <br>
 
 
-In the interface, it displays warnings including:
+**In the interface it displays warnings including:**
 
 The row number containing the error
 
