@@ -11,7 +11,7 @@ The user simply uploads their own Excel file. The system then performs the follo
 
 
 
-<p>Automatic Calculation</p>
+<p>- Automatic Calculation -</p>
 
 <br>
 
