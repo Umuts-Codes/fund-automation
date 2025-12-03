@@ -44,7 +44,9 @@ Allows users to download a professionally formatted PDF report containing all ca
 
 <p>- Error Detection & Validation -</p>
 
+
 <br>
+
 
 If the user accidentally enters incorrect or invalid data into the Excel file, such as:
 
@@ -87,3 +89,19 @@ The system handles everything else fully automatically.
 
 
 ![Fund Automation Screenshot](screenshots/main-description.png)
+
+
+
+
+
+
+
+
+# ALERT
+
+<br>
+
+If the Upload & Calculate button is clicked without selecting a file after logging into the system an alert message saying "Please select an Excel file first!" will appear indicating an invalid action. File selection must be done first.
+
+
+
