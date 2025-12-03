@@ -194,7 +194,23 @@ Lastly, the system provides a PDF download option. When you download your work i
 
 
 ![Fund Automation Screenshot](screenshots/download-pdf.png)
-![Fund Automation Screenshot](screenshots/pdf.png)
+
+
+
+
+
+
+
+
+# VALIDATION ERRORS
+
+If you enter incorrect data in your Excel work the system shows an alert. At the same time it displays the row number and column names. Finally, for invalid entries it shows the mistaken value entered by the user.
+
+<br>
+
+
+![Fund Automation Screenshot](screenshots/validation-errors.png)
+
 
 
 <br><br>
