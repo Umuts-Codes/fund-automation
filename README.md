@@ -19,7 +19,7 @@ Reads all income and expense values
 
 Automatically calculates total income, total expenses, and net profit
 
-Extracts the most recent date from the dataset
+Extracts the most recent date from the dataset.
 
 
 
@@ -29,7 +29,7 @@ Extracts the most recent date from the dataset
 
 
 
-<p>PDF Export</p>
+<p>- PDF Export -</p>
 
 <br>
 
@@ -41,7 +41,7 @@ Allows users to download a professionally formatted PDF report containing all ca
 
 
 
-<p>Error Detection & Validation</p>
+<p>- Error Detection & Validation -</p>
 
 <br>
 
