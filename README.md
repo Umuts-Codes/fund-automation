@@ -163,3 +163,20 @@ list. Our system calculates and displays the profit in the background even if th
 
 
 <br><br>
+
+
+
+
+
+
+
+# ROW DATA
+
+The system has another feature if data is entered in the Excel file it can be viewed in a table under the Row Details heading. The table shows row numbers, dates and columns. It calculates income and expenses and displays the profit in the Excel table.
+
+<br>
+
+![Fund Automation Screenshot](screenshots/row-details.png)
+
+
+<br><br>
