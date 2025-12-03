@@ -1,7 +1,5 @@
 # FUND - AUTOMATION
 
-<br>
-
 This project is a calculation and validation system designed to automatically process income, expense, and date data stored in an Excel file by any company or individual.
 
 <br>
