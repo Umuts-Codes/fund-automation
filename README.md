@@ -158,7 +158,9 @@ list. Our system calculates and displays the profit in the background even if th
 
 
 ![Fund Automation Screenshot](screenshots/summary-list.png)
+
 ![Fund Automation Screenshot](screenshots/excel-summary-list.png)
+
 ![Fund Automation Screenshot](screenshots/2-excel-summary-list.png)
 
 
@@ -195,7 +197,7 @@ Lastly, the system provides a PDF download option. When you download your work i
 
 ![Fund Automation Screenshot](screenshots/download-pdf.png)
 
-
+![Fund Automation Screenshot](screenshots/pdf.png)
 
 
 
