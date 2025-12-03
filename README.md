@@ -2,11 +2,12 @@
 
 <br>
 
-
 This project is a calculation and validation system designed to automatically process income, expense, and date data stored in an Excel file by any company or individual.
 
 The user simply uploads their own Excel file. The system then performs the following operations in the background:
 
+
+<br><br>
 
 
 
@@ -21,22 +22,26 @@ Automatically calculates total income, total expenses, and net profit
 Extracts the most recent date from the dataset
 
 
+
+
 <br><br>
 
 
-- PDF Export
+
+
+<p>PDF Export</p>
 
 <br>
 
 Allows users to download a professionally formatted PDF report containing all calculated results.
 
 
+
 <br><br>
 
 
 
-
-- Error Detection & Validation
+<p>Error Detection & Validation</p>
 
 <br>
 
@@ -70,8 +75,9 @@ The only thing the user needs to do is enter their Date, Income, and Expense dat
 
 The system handles everything else fully automatically.
 
+
 <br>
 
 
-NOTE: This project operates in the background through a combination of jQuery-Ajax on the frontend and Python Flask backend functions, ensuring that all data is processed and transferred correctly.
+<p>NOTE:</p> This project operates in the background through a combination of jQuery-Ajax on the frontend and Python Flask backend functions, ensuring that all data is processed and transferred correctly.
 
