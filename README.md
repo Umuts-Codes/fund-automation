@@ -180,3 +180,21 @@ The system has another feature if data is entered in the Excel file it can be vi
 
 
 <br><br>
+
+
+
+
+
+
+# PDF
+
+Lastly, the system provides a PDF download option. When you download your work in PDF format, it shows the net income, net expense, net profit, and the date from the last row of your work. If desired the file can be downloaded as a PDF.
+
+<br>
+
+
+![Fund Automation Screenshot](screenshots/download-pdf.png)
+![Fund Automation Screenshot](screenshots/pdf.png)
+
+
+<br><br>
