@@ -212,5 +212,3 @@ If you enter incorrect data in your Excel work the system shows an alert. At the
 ![Fund Automation Screenshot](screenshots/validation-errors.png)
 
 
-
-<br><br>
