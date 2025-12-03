@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fund Automation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" defer></script>
+    <link rel="icon" type="image/png" sizes="36x36" href="static/images/fund-automation-icon.png">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  
+
+</head>
+
+
+
+
+
+
+<body>
+
+
+
+<div class="container">
+
+
+<!-- File Upload Section -->
+<section id="upload-section">
+    <div class="panel-wrapper">
+        <h2>Upload Your Excel File</h2>
+        <form id="upload-form" enctype="multipart/form-data">
+            
+            <!-- Hidden file input -->
+            <input type="file" name="file" id="file-input" accept=".xlsx, .xls">
+            
+            <!-- Label as button -->
+            <label for="file-input" class="file-btn">Choose File</label>
+            
+            <!-- File name display -->
+            <span id="file-name">No file selected</span>
+            
+            <button type="submit">Upload & Calculate</button>
+        </form>
+    </div>
+</section>
+
+
+
+
+
+    <!-- Result Section -->
+    <section id="result-section">
+        <div class="panel-wrapper">
+            <h2>Summary</h2>
+            <div id="summary-output">
+                <!-- JSON or table results will appear here -->
+            </div>
+        </div>
+    </section>
+
+</div>
+
+
+
+
+
+
+<!-- Error Table Section -->
+<div id="error-box" class="container mt-4">
+    <h3 class="text-danger">Validation Errors</h3>
+    <div class="table-responsive">
+        <table class="table table-bordered table-striped table-hover">
+            <thead class="table-danger">
+                <tr>
+                    <th>Row</th>
+                    <th>Column</th>
+                    <th>Invalid Entry</th>
+                </tr>
+            </thead>
+            <tbody id="error-table-body">
+                <!-- Errors will be injected here via jQuery -->
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<!-- Row Details should be OUTSIDE summary-output -->
+<div id="row-details">
+    <h3>Row Details</h3>
+    <table class="table table-bordered table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+			    <th><span class="row-number">1</span></th>
+				<th>Income</th>
+                <th>Expense</th>
+                <th>Net Profit</th>
+                <th>Date</th>
+            </tr>
+        </thead>
+        <tbody id="row-details-body"></tbody>
+    </table>
+</div>
+
+<button id="download-pdf" class="btn btn-primary mt-3">Download PDF</button>
+
+
+
+
+
+
+
+    
+<script src="{{ url_for('static', filename='js/jquery.main.js') }}" defer></script>
+	
+
+
+
+</body>
+</html>
+
+
+
+
+
+
