@@ -123,3 +123,19 @@ To see your own work you must click the Choose File button and then select your 
 
 
 <br><br>
+
+
+
+
+
+
+# FILE CALL
+
+When your own Excel file is selected it appears under the Choose File button and is loaded into the system.
+
+<br>
+
+![Fund Automation Screenshot](screenshots/income-expense.png)
+
+
+<br><br>
