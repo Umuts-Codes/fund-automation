@@ -4,6 +4,8 @@
 
 This project is a calculation and validation system designed to automatically process income, expense, and date data stored in an Excel file by any company or individual.
 
+<br><br>
+
 The user simply uploads their own Excel file. The system then performs the following operations in the background:
 
 
@@ -79,5 +81,5 @@ The system handles everything else fully automatically.
 <br>
 
 
-<p>NOTE:</p> This project operates in the background through a combination of jQuery-Ajax on the frontend and Python Flask backend functions, ensuring that all data is processed and transferred correctly.
+NOTE: This project operates in the background through a combination of jQuery-Ajax on the frontend and Python Flask backend functions, ensuring that all data is processed and transferred correctly.
 
