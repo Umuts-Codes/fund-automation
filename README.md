@@ -99,8 +99,6 @@ The system handles everything else fully automatically.
 
 # ALERT
 
-<br>
-
 If the Upload & Calculate button is clicked without selecting a file after logging into the system an alert message saying "Please select an Excel file first!" will appear indicating an invalid action. File selection must be done first.
 
 <br>
