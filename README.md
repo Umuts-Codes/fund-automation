@@ -139,3 +139,27 @@ When your own Excel file is selected it appears under the Choose File button and
 
 
 <br><br>
+
+
+
+
+
+
+
+
+# UPLOAD & CALCULATE
+
+After clicking the Upload & Calculate button by adding only the numbers under Income and Expense in the Excel file and including the date for each entry we can see the date from the last row as well as the net profit, total income, and total expenses in the summary 
+
+list. Our system calculates and displays the profit in the background even if the Excel file has 100 rows or more and the calculations are complex. There is no need to write the profit in the Excel file the system does it automatically.
+
+
+<br>
+
+
+![Fund Automation Screenshot](screenshots/summary-list.png)
+![Fund Automation Screenshot](screenshots/excel-summary-list.png)
+![Fund Automation Screenshot](screenshots/2-excel-summary-list.png)
+
+
+<br><br>
