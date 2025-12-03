@@ -81,5 +81,5 @@ The system handles everything else fully automatically.
 <br>
 
 
-NOTE: This project operates in the background through a combination of jQuery-Ajax on the frontend and Python Flask backend functions, ensuring that all data is processed and transferred correctly.
+**NOTE:** This project operates in the background through a combination of jQuery-Ajax on the frontend and Python Flask backend functions, ensuring that all data is processed and transferred correctly.
 
