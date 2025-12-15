@@ -96,7 +96,7 @@ The system handles everything else fully automatically.
 
 
 
-# ALERT
+## ALERT
 
 If the Upload & Calculate button is clicked without selecting a file after logging into the system an alert message saying "Please select an Excel file first!" will appear indicating an invalid action. File selection must be done first.
 
@@ -111,7 +111,7 @@ If the Upload & Calculate button is clicked without selecting a file after loggi
 
 
 
-# EXCEL SELECT
+## EXCEL SELECT
 
 To see your own work you must click the Choose File button and then select your Excel file from your computer.
 
@@ -129,7 +129,7 @@ To see your own work you must click the Choose File button and then select your 
 
 
 
-# FILE CALL
+## FILE CALL
 
 When your own Excel file is selected it appears under the Choose File button and is loaded into the system.
 
@@ -147,7 +147,7 @@ When your own Excel file is selected it appears under the Choose File button and
 
 
 
-# UPLOAD & CALCULATE
+## UPLOAD & CALCULATE
 
 After clicking the Upload & Calculate button by adding only the numbers under Income and Expense in the Excel file and including the date for each entry we can see the date from the last row as well as the net profit, total income, and total expenses in the summary list. <p> Our system calculates and displays the profit in the background even if the Excel file has 100 rows or more and the calculations are complex. There is no need to write the profit in the Excel file the system does it automatically. </p>
 
@@ -170,7 +170,7 @@ After clicking the Upload & Calculate button by adding only the numbers under In
 
 
 
-# ROW DATA
+## ROW DATA
 
 The system has another feature if data is entered in the Excel file it can be viewed in a table under the Row Details heading. The table shows row numbers, dates and columns. It calculates income and expenses and displays the profit in the Excel table.
 
@@ -186,7 +186,7 @@ The system has another feature if data is entered in the Excel file it can be vi
 
 
 
-# PDF
+## PDF
 
 Lastly, the system provides a PDF download option. When you download your work in PDF format, it shows the net income, net expense, net profit, and the date from the last row of your work. If desired the file can be downloaded as a PDF.
 
@@ -202,7 +202,7 @@ Lastly, the system provides a PDF download option. When you download your work i
 
 
 
-# VALIDATION ERRORS
+## VALIDATION ERRORS
 
 If you enter incorrect data in your Excel work the system shows an alert. At the same time it displays the row number and column names. Finally, for invalid entries it shows the mistaken value entered by the user.
 
